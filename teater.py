@@ -1,6 +1,6 @@
 from  Tkinter import *
 import tkMessageBox
-from termcolor import colored
+
 class StartSoftware():
     def __init__(self):
         self.root = Tk()
